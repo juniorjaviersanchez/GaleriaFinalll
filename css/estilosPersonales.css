@@ -1,0 +1,16 @@
+#colour-variations{
+    display: none;
+}
+@media (min-width: 800px) {
+    .mfp-content{
+        width: 700px;
+    }
+    .mfp-figure img.mfp-img {
+        width: 700px;
+    }
+}
+
+.ExtraOculto{
+    display: none;
+}
+
